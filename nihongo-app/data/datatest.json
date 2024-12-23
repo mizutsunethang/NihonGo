@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "id": "intro",
+      "data": [
+        {
+          "tier": 1,
+          "exercises": [
+            {
+              "id": "65ec6c83e897e10f2734fd06",
+              "KhoaHoc": "N5",
+              "name": "HokkaiDo"
+            }
+          ]
+        },
+        {
+          "tier": 2,
+          "exercises": [
+            {
+              "id": "65ec6d8ce897e10f2734fd08",
+              "KhoaHoc": "N4",
+              "name": "KyoTo"
+            },
+            {
+              "id": "65ec6dabe897e10f2734fd0a",
+              "KhoaHoc": "N3",
+              "name": "OsaKa"
+            }
+          ]
+        },
+        {
+          "tier": 3,
+          "exercises": [
+            {
+              "id": "65ec6dc3e897e10f2734fd0c",
+              "KhoaHoc": "N2",
+              "name": "ToKyo"
+            },
+            {
+              "id": "65ec6e25e897e10f2734fd0f",
+              "KhoaHoc": "N1",
+              "name": "Nagasaki"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
